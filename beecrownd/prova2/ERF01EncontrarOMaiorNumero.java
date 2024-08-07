@@ -1,4 +1,4 @@
-package lista6;
+package prova2;
 import java.util.Scanner; 
 
 public class ERF01EncontrarOMaiorNumero {
